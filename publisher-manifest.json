@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "57b68784ee34201cac80e136",
+  "owner": "wsjegvw",
+  "repo": "page-a6b5cbd865eee17f9b7708b9",
+  "title": "miaoss",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a6b5cbd865eee17f9b7708b9",
+      "a": "miaoss",
+      "b": "稳定全球clash加速器",
+      "entity": "miaoss",
+      "brand": "miaoss",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "184f8016c805e7ca9b0257f906a0eb8b00152b3e41a74aab2b74835b71f7e093",
+      "content": {
+        "primary_entity": "miaoss",
+        "keyword1": "miaoss",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、iOS、Android 与路由器系统，按设备选择对应版本后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "客户端下载与适配",
+          "AI_CLOSING_TEXT": "选好套餐后，按设备下载客户端并导入订阅，即可开始使用 miaoss。",
+          "AI_CLOSING_TITLE": "开始使用 miaoss",
+          "AI_DESCRIPTION": "，miaoss 是面向海外访问场景的加速器，提供 Clash 订阅链接与多端客户端配置。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并配备 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按设备选择 Windows、macOS、iOS、Android 或路由器客户端，导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度，快速了解 miaoss 的使用方式。",
+          "AI_FEATURES_TITLE": "选择适合的加速方案",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按流量需求选择档位。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，按同时在线设备数选择。",
+          "AI_FEATURE_TEXT_3": "月付适合短期使用，年付可节省费用，长期使用可选择按年付方案。",
+          "AI_FEATURE_TITLE_1": "套餐档位分明",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、配置订阅三步完成 miaoss 的初步使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "miaoss 提供多档套餐与 Clash 订阅配置，覆盖 Windows、macOS、iOS、Android 与路由器设备。基础版适合少量设备日常使用，旗舰版增加 IPLC 专线优化，团队版满足多设备与高流量场景。",
+          "AI_HERO_SUBTITLE": "多端订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "覆盖多端客户端",
+          "AI_HIGHLIGHT_2": "三档套餐可选",
+          "AI_HIGHLIGHT_3": "支持 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备与专属高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，对照基础版、旗舰版、团队版选择适合自己的套餐档位。",
+          "AI_STEP_TEXT_2": "确认所用设备的操作系统版本，查看对应客户端的适配要求，确保系统满足运行条件。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入文档完成配置，将订阅链接填入客户端后同步节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "miaoss 多端加速服务",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。单人日常选基础版，家庭或小组选旗舰版以上，设备多且流量消耗大选团队版。",
+          "AI_FAQ_ANSWER_2": "各套餐按设备数量区分：基础版 3 台，旗舰版 5 台，团队版 20 台。若同一账号在多台设备登录超出套餐限制，需要升级到更高档套餐。",
+          "AI_FAQ_ANSWER_3": "先把订阅地址复制到客户端，再按客户端文档导入节点。Shadowrocket 和 Clash 都支持订阅链接导入，导入后选择节点即可使用。不同客户端界面不同，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量按自然月重置，超出后需等待下月或升级套餐。年付方案更划算，例如旗舰版年付 ¥350。",
+          "AI_FAQ_ANSWER_5": "基础版按年付 ¥150，旗舰版按年付 ¥350，团队版按年付 ¥850。年付相当于支付十个月费用，适合长期使用。若使用时间较短，也可选月付 ¥15、¥35 或 ¥85。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入到客户端？",
+          "AI_FAQ_QUESTION_4": "套餐流量用完了怎么办？",
+          "AI_FAQ_QUESTION_5": "年付和月付的价格分别是多少？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uellnbw.cn",
+    "host": "uellnbw.cn"
+  },
+  "file_hashes": {
+    "index.html": "92578625f639744fb55ff7fa7f9a68c3e6be1fc3913345d41fc003e81dcc92ca",
+    "sitemap.xml": "5ee06ecc55c2002f5e710652e88e5e8a76d9840673fdc1261a44f1585ba8e315",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ee8d621e0e851bd0f8ef7669848b61efa916a2891ef9016cf4edbc2e77608754",
+    "robots.txt": "f2ccb89ab30901bd191c2fd75cda7f93b6739eaa1284eb7befdc19132eeaae82",
+    "5c658414cdaef7b417a54efea0742f3d.txt": "486011f8473450600befae6b7d6a4a296b7a01b1f56d1fb291e95770082b6ea8"
+  },
+  "revision": "c518409e2745fbc1afe3565c719bb109e5a1786918c0fa36e095b4ee5d766ed2"
+}
